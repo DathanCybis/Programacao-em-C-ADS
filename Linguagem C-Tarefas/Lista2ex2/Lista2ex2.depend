@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1760462386 source:c:\users\dan-dell\documents\linguagem c - codeblocks\linguagem c-tarefas\lista2ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
