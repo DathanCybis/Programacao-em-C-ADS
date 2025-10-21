@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761006510 source:c:\users\unip\documents\c\17-10-2025\20-10 atv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
