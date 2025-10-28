@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761609959 source:c:\users\unip\documents\c\27-10-2025\c-funcao-com-retorno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
