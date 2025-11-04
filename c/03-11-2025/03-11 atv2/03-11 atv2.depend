@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1762217488 source:c:\users\unip\documents\c\03-11-2025\03-11 atv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"calculos.h"
+
+1762217472 source:c:\users\unip\documents\c\03-11-2025\03-11 atv2\calculos.c
+	"calculos.h"
+
+1762217472 c:\users\unip\documents\c\03-11-2025\03-11 atv2\calculos.h
+
