@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762784044 source:c:\users\dan-dell\documents\linguagem c - codeblocks\linguagem c-tarefas\vetores\vetores-atv5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
