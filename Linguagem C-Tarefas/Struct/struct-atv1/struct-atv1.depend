@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762798870 source:c:\users\dan-dell\documents\linguagem c - codeblocks\linguagem c-tarefas\struct\struct-atv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
